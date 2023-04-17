@@ -31,3 +31,22 @@ li{
   color: #FAFAFA;
   float: right;
 }
+.main-top{
+  height: 650px;
+  width: 100%;
+  background-image: url(img/mv.png);
+  background-size: 100%;
+  background-position: center;
+  padding-top: 200px;
+}
+.main-top-title{
+  color: #FAFAFA;
+  font-size: 64px;
+  text-align: center;
+}
+.main-top-text{
+  color: #FAFAFA;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 10px;
+}
