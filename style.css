@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+header{
+  height: 70px;
+  width: 100%;
+  background-color: #EC715F;
+}
+nav{
+  width: 1024px;
+  height: 70px;
+  margin: 0 auto;
+}
+.nav-list{
+  height: 70px;
+}
+.logo{
+  float: left;
+}
+li{
+  list-style: none;
+}
+.nav-list-item{
+  display: inline-block;
+  line-height: 70px;
+  font-size: 16px;
+  margin: 0 30px;
+  color: #FAFAFA;
+  float: right;
+}
