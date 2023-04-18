@@ -197,7 +197,7 @@ li{
 }
 .profile-left{
   width: 512px;
-  text-align: center;
+    text-align: center;
 }
 .profile-image{
   background-image: url(img/my-icon.jpg);
@@ -231,4 +231,63 @@ li{
 .skill{
   font-size: 16px;
   color: #000;
+}
+.contact-view{
+  width: 100%;
+}
+.contact{
+  width: 800px;
+  padding: 90px 0;
+  margin: 0 auto;
+}
+.contact-title{
+  text-align: center;
+  font-size: 32px;
+  color: #000;
+  margin-bottom: 8px;
+}
+.contact-text{
+  font-size: 16px;
+  color: #000;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.contact-bottom{
+  display: flex;
+}
+.email{
+ width: 400px;
+}
+.email-title{
+  font-size: 20px;
+  color: #000;
+  margin-bottom: 5px;
+}
+.address{
+  color: #000;
+}
+.tel-title{
+  font-size: 20px;
+  color: #000;
+  margin-top: 20px;
+}
+.number{
+  color: #000;
+}
+.sns{
+  width: 400px;
+}
+.sns-title{
+  font-size: 20px;
+  color: #000;
+}
+.social-icon{
+  font-size: 50px;
+}
+.fa-square-facebook, .fa-twitter, .fa-instagram{
+  margin-top: 5px;
+  margin-right: 20px;
+}
+.fa-instagram{
+  margin-right: 0px;
 }
